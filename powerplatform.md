@@ -7,7 +7,6 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>For GitHub</h1>
     <h2>Power Apps</h2>
     <p>
     Shadow Button aus Teams
