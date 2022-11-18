@@ -1,0 +1,5 @@
+- Hello, I’m @xelaquer
+- 
+- I’m currently learning HTML-CSS-JS in freetime and the Power Platform (Power FX) in working time
+- I’m looking to collaborate on Power Platform and some Projects within Javacript
+- You can reach me @xelaquer and Discord (tObik)
